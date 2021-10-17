@@ -1,0 +1,1 @@
+https://docs.portainer.io/v/ce-2.9/faq/installing/how-can-i-ensure-portainers-configuration-is-retained#docker-swarm
